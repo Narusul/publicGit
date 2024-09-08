@@ -1,3 +1,5 @@
+#credits and copied from `https://github.com/jcarbaugh/python-roku/tree/main`
+
 pip install roku
 
 To start, import the Roku object and create it with the IP address or hostname of your Roku.
